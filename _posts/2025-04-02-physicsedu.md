@@ -56,6 +56,8 @@ _styles: >
   }
 ---
 
-<div align="center">
-  <h2>As you can see, I am still procrastinating on putting this together lol.</h2>
-</div>
+## My Formative Education
+
+Now I am not gonna lie to you like every other wannabe and tell you about how I was a curious child and did yada yada yada when I was $-5$ or $-6$ (yes that is a minus lol) years old to impress you. On the contrary, like most kids in an Indian household, my curiosity was often curbed with ridiculous responses associated to either religion or tradition in a mutually non-exclusive manner. My early schooling days had a subpar mathematics education as well. So much so that by the third grade, I could recite the multiplication tables upto 20 like a champ but had no clue how to actually do multiplication. So how does a $7$ year old who cannot deal with numbers ends up in a mathematically rich area of study?
+
+To answer the above, I need to talk about how my mathematics education developed. Around the end of my abysmal third grade, I had to switch both cities (from one hometown in Chennai to another in Kolkata) and schools. The level of education seemed to take a massive jump. With my memorization abilities I more or less got through the social studies topics and languages rather comfortably. Even the sciences to some degree, considering all the factual jargon they tend to throw at kids in elementary school around these parts.
